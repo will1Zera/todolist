@@ -27,9 +27,5 @@ To-Do List feito em React capaz de concluir e apagar várias tarefas. Foi implem
 ### Objetivo
 Praticar principais funções relacionadas a React, como o useState e JSX. Além do useEffect para usar o localstorage
 
-- Web Speech API: Incorpora vozes para aplicações WEB
-- Pixabay API: Incorpora imagens da pixabay
-
-
 
 by [William Bierhals](https://github.com/will1Zera)
